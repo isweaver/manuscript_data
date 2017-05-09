@@ -1,4 +1,4 @@
-# mp_mep_retweet_edges_timeseries.json
+# mp_mep_retweet_edges_timeseries.zip
 This file contains the dataset used to produce the manuscript "Dynamic social media affiliations among UK politicians".
 
 It is in compressed json format with the following fields:
